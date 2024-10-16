@@ -1,13 +1,13 @@
 body {
     color: white;
-    background: rgb(175, 0, 255);
+    background: rgb(0, 17, 255);
     margin: 0px;
     font-family: "Renogare";
     margin-bottom: 100px;
 }
 
 body header {
-    border-bottom: solid 4px rgb(200, 50, 255);
+    border-bottom: solid 4px rgb(47, 61, 255);
     padding: 20px;
     font-size: 32px;
     text-align: center;
@@ -15,11 +15,11 @@ body header {
 }
 
 .chamada {
-	background: rgb(135, 0, 230);
+	background: rgb(3, 0, 185);
 	padding: 80px;
 	display: flex;
 	justify-content: center;
-    border-bottom: solid 4px rgb(200, 50, 255);
+    border-bottom: solid 4px rgb(47, 61, 255);
 }
 
 .chamada-texto {
